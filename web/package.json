@@ -51,7 +51,7 @@
     "@start9labs/argon2": "^0.2.2",
     "@start9labs/emver": "^0.1.5",
     "@taiga-ui/addon-charts": "3.20.0",
-    "@taiga-ui/cdk": "3.20.0",
+    "@taiga-ui/cdk": "3.114.0",
     "@taiga-ui/core": "3.20.0",
     "@taiga-ui/icons": "3.20.0",
     "@taiga-ui/kit": "3.20.0",
