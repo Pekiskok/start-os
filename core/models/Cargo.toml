@@ -15,7 +15,7 @@ emver = { version = "0.1", git = "https://github.com/Start9Labs/emver-rs.git", f
   "serde",
 ] }
 ipnet = "2.8.0"
-openssl = { version = "0.10.57", features = ["vendored"] }
+openssl = { version = "0.10.72", features = ["vendored"] }
 patch-db = { version = "*", path = "../../patch-db/patch-db", features = [
   "trace",
 ] }
