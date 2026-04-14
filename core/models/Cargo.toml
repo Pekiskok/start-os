@@ -19,7 +19,7 @@ openssl = { version = "0.10.57", features = ["vendored"] }
 patch-db = { version = "*", path = "../../patch-db/patch-db", features = [
   "trace",
 ] }
-rand = "0.8.5"
+rand = "0.9.3"
 regex = "1.10.2"
 reqwest = "0.11.22"
 rpc-toolkit = "0.2.2"
