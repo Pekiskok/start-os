@@ -25,7 +25,7 @@ log = "0.4.11"
 nix = "0.25.0"
 pest = "2.1"
 pest_derive = "2.1"
-rand = "0.8.5"
+rand = "0.9.3"
 regex = "1.4.2"
 rust-argon2 = "1.0.0"
 serde = { version = "1.0.118", features = ["derive", "rc"] }
