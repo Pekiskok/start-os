@@ -124,7 +124,7 @@ rand = { version = "0.8.5", features = ["std"] }
 regex = "1.10.2"
 reqwest = { version = "0.11.22", features = ["stream", "json", "socks"] }
 reqwest_cookie_store = "0.6.0"
-rpassword = "7.2.0"
+rpassword = "7.5.0"
 rpc-toolkit = "0.2.2"
 rust-argon2 = "2.0.0"
 scopeguard = "1.1" # because avahi-sys fucks your shit up
