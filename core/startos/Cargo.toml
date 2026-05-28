@@ -109,7 +109,7 @@ nom = "7.1.3"
 num = "0.4.1"
 num_enum = "0.7.0"
 openssh-keys = "0.6.2"
-openssl = { version = "0.10.57", features = ["vendored"] }
+openssl = { version = "0.10.80", features = ["vendored"] }
 p256 = { version = "0.13.2", features = ["pem"] }
 patch-db = { version = "*", path = "../../patch-db/patch-db", features = [
   "trace",
